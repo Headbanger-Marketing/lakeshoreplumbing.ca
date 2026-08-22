@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lakeshoreplumbing.ca/sitemap-index.xml
