@@ -1,2 +1,25 @@
 # Lakeshore Plumbing
-HVAC services in Ontario.
+
+> Lakeshore Plumbing is a local HVAC company serving Lakeshore, Essex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 708-6805  |  Email: contact@lakeshoreplumbing.ca  |  Website: https://lakeshoreplumbing.ca
+
+## Key pages
+
+- [Home](https://lakeshoreplumbing.ca/): Lakeshore Plumbing homepage with service overview and FAQ
+- [About](https://lakeshoreplumbing.ca/about/): About the company and service area
+- [Contact](https://lakeshoreplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://lakeshoreplumbing.ca/services/water-heaters/): Water Heaters in Lakeshore, Ontario
+- [Drain Cleaning](https://lakeshoreplumbing.ca/services/drain-cleaning/): Drain Cleaning in Lakeshore, Ontario
+- [Repiping](https://lakeshoreplumbing.ca/services/repiping/): Repiping in Lakeshore, Ontario
+- [Fixtures & Toilets](https://lakeshoreplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Lakeshore, Ontario
+- [Leak Detection & Repair](https://lakeshoreplumbing.ca/services/leak-detection/): Leak Detection & Repair in Lakeshore, Ontario
+- [Sump Pumps & Backwater](https://lakeshoreplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Lakeshore, Ontario
+- [Water Softeners & Filtration](https://lakeshoreplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Lakeshore, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Lakeshore are answered on the homepage.
